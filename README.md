@@ -1,10 +1,10 @@
 # Financial Analytics with Python
 
-## Lesson 1
+## Part 1
 1. [Notebook and Python Introduction](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%201-1%20-%20Notebook%20%26%20Python%20Intro.ipynb)
 2. [NumPy](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%201-2%20-%20Numpy.ipynb)
 
-## Lesson 2
+## Part 2
 3. [Pandas - Introduction to Data Structure](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%202-1%20-%20Pandas.%20Introduction%20to%20Data%20Structures.ipynb)
 
 4. [Pandas - Basic Functions](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%202-2%20-%20Pandas.%20Basic%20Functions%2C%20Indexing%20and%20Selecting%20Data.ipynb)
@@ -22,4 +22,9 @@
 10. [Pandas - Time Series](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%202-8%20-%20Pandas.%20Time%20Series.ipynb)
 
 11. [Pandas - Visualisation](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%202-9%20-%20Pandas.%20Plotting%20%26%20Visualisation.ipynb)
+
+## Part 3
+12. [Matplotlib](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%203-1%20-%20Matplotlib.ipynb)
+
+13. [Seaborn](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%203-2%20-%20Seaborn.ipynb)
 
