@@ -28,3 +28,23 @@
 
 13. [Seaborn](https://nbviewer.jupyter.org/github/anthonyng2/financial_analytics_python/blob/master/Lesson%203-2%20-%20Seaborn.ipynb)
 
+## Part 4 
+
+14. [Financial Applications](https://github.com/anthonyng2/financial_analytics_python/blob/master/Lesson%209-1%20-%20Financial%20Application.ipynb)
+   * Python as a Financial Calculator
+      * Time Value of Money
+      * Call Option (Scipy and Numpy)
+   * Intro to Numpy and Scipy - Linear Regression, CAPM (Numpy, matplotlib, scipy, statsmodel)
+   * Risk and Returns (Pandas, Matplotlib, Bokeh)
+      * Return Distribution
+      * Comparing return versus volatility for several stocks
+   * Time Series Analysis (Pandas, Scipy)
+      * Bartlett’s test for equal variances
+      * Levene test for equal variances
+      * Jan Month Effect
+      * 52 week high low range
+      * Fama-French
+      * Rolling Beta
+      * Efficient Frontier
+      * Optimization
+      * Portfolio Optimisation
