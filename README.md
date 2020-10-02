@@ -42,7 +42,6 @@
       * Bartlett’s test for equal variances
       * Levene test for equal variances
       * Jan Month Effect
-      * 52 week high low range
       * Fama-French
       * Rolling Beta
       * Efficient Frontier
